@@ -2,7 +2,7 @@
 Data and example code from *Rare, common, alien and native species follow different rules in an understorey plant community*.
 
 # Summary
-This repo holds the data and R code to run the analysis from the paper *Rare, common, alien and native species follow different rules in an understorey plant community* by S.Reeve, D.Deane, C. McGrannachan, G.Horner, C.Hui and M.McGeoch, published in Ecology and Evolution in 2022. In this study, we look at the understorey plant community in a set of national parks nestled in an agricultural landscape matrix in the central north of Victoria, Australia.   
+This repo holds the data and example R code showing how to run the analyses from the paper *Rare, common, alien and native species follow different rules in an understorey plant community* by S.Reeve, D.Deane, C. McGrannachan, G.Horner, C.Hui and M.McGeoch, published in Ecology and Evolution in 2022. In this study, we look at the understorey plant community in a set of national parks nestled in an agricultural landscape matrix in the central north of Victoria, Australia.   
 
 ![figA1_1.png](./figA1_1.png)   
 
