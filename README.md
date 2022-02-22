@@ -11,9 +11,9 @@ Biological invasions are a leading threat to biodiversity globally. Increasingly
 
 ## Data  
 There are three R data objects 'plants.RData', 'traits.RData' and 'enviro.RData'. These contain respectively: 
-1. 'plants' a list of two elements ('native' and 'alien'), which give the plant frequencies (integer count between 1 and 25 for the number of adjacent sub quadrats in which it was present) for each of 50 plots for 178 native species and 73 alien species observed at the sites. 
-2. 'traits' a list of two elements giving the traits data used for native and alien species, which were life history ('life') and growth form ('form'). 
-3. the environmental predictors (whether used in the analysis or not) as shown in Fig. A1.6 in the text.
+1. 'plants' - list of two elements ('native' and 'alien'), which give the plant frequencies (integer count between 1 and 25 for the number of adjacent sub quadrats in which it was present) for each of 50 plots for 178 native species and 73 alien species observed at the sites. 
+2. 'traits' - list of two elements giving the traits data used for native and alien species, which were life history ('life') and growth form ('form'). 
+3. 'env' - the environmental predictors (whether used in the analysis or not) as shown in Fig. A1.6 in the main text.
 
 ```
 load('plants.RData')
